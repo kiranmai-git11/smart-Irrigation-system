@@ -54,9 +54,8 @@ void loop() {
 
   delay(1000);
 }
- Conclusion
 
-Example conclusion to paste:
+ Conclusion:
 
 > The Smart Irrigation System reduces manual effort and ensures optimal water usage by automatically controlling irrigation based on soil moisture. This prototype can be further extended using IoT for remote monitoring.
 
