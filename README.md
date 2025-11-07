@@ -64,7 +64,7 @@ void loop() {
 
 ---
 
- Future Scope / Enhancements (optional but impressive)
+ Future Scope :
 
 > Add an IoT dashboard using Blynk / Firebase
 
