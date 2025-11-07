@@ -78,5 +78,3 @@ SMS alert when soil is dry
 
 ## ⭐ Project Overview
 This project automatically controls the water pump based on soil moisture levels. When the soil becomes dry, the pump turns ON, and when the soil becomes wet, the pump turns OFF. This helps save water and reduces manual monitoring.
-
--
