@@ -1,1 +1,25 @@
+# Arduino / C++ project ignore rules
 
+# Compiled object files
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+
+# Backup or temporary files
+*~
+*.tmp
+*.bak
+
+# IDE / OS files
+.DS_Store
+Thumbs.db
+
+# VSCode or Arduino IDE config
+.vscode/
+.idea/
+*.log
+
+# Build folders
+build/
